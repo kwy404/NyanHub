@@ -11,3 +11,5 @@
 •  Chat inteligente: Uma opção que permite aos usuários conversarem com um assistente virtual, que pode fornecer informações, responder perguntas, dar dicas, fazer piadas, contar histórias, etc. O assistente virtual é capaz de aprender com as interações dos usuários e se adaptar aos seus estilos de conversa.
 
 •  Chat gamificado: Uma opção que permite aos usuários jogarem jogos de chat, como trivia, charada, forca, verdade ou desafio, etc. Os usuários podem jogar sozinhos, com outros usuários ou com o assistente virtual, e ganhar pontos, medalhas e recompensas.
+
+•  Chat Comunidade (Servidor): Uma comunidade ou servidor que você pode convidar seus amigos para participar
